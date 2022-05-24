@@ -1,0 +1,73 @@
+
+/* main CSS - START */
+body {
+    padding-top: 5rem;
+  }
+  .starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+  }
+
+/* main CSS - END */
+
+
+.navbar-brand{
+    margin-left: 15px;
+    
+}
+
+.nav-link {
+    margin-left: 5px;
+
+}
+
+
+/*  end nav22 - */
+
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+  .marketing h2 {
+    font-weight: 400;
+  }
+  .marketing .col-lg-4 p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+  }
+  
+  /*  end marketing content - */
+
+.col-auto{
+margin-left: 7px;
+}
+
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}
+
+img{
+    
+}
+.featurette-divider{
+    color: gray;
+    opacity: 0.2;
+}
+
+;
